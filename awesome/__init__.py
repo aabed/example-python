@@ -6,3 +6,9 @@ def frown():
 
 def cry():
     return ":'("
+
+def bigsmile():
+    return ":D"
+
+def confused():
+    return ":S"
